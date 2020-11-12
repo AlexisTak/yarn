@@ -11,7 +11,7 @@ Yarn, est un petit programe en java qui permet d'avoir les mappagings Minecraft.
 ## Prérequis
 Pour pouvoir utilise Yarn ils vous faut2 choses 
 
-1 Yarn (logique)
+1) Yarn (logique)
 
 2) Une consol (exemple : CMD)
 
