@@ -25,6 +25,6 @@ Pour pouvoir utilise Yarn ils vous faut2 choses
 
 Ouvrer un invite de commande (exemple CMD) dans le dossier yarn-1.16.3 puis tapez la commande suivante 
 
-### gradlew Yarn
+### Commande à tapez = 'gradlew Yarn'
 
 ![Image](https://nsa40.casimages.com/img/2020/11/12/201112091811764376.png)
