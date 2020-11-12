@@ -9,7 +9,7 @@ Yarn, est un petit programe en java qui permet d'avoir les mappagings Minecraft.
 5) Sweetoky le conseille
 
 ## Prérequis
-Pour pouvoir utilise Yarn ils vous faut2 choses 
+Pour pouvoir utilise Yarn ils vous faut 4 choses 
 
 1) Yarn (logique)
 
