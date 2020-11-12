@@ -17,7 +17,7 @@ Pour pouvoir utilise Yarn ils vous faut 4 choses
 
 3) JAVA (loulz)
 
-4) Gradle pour vous aidez voici un lien directe pour vous aidez à installer Gradle https://docs.gradle.org/current/userguide/installation.html
+4) Gradle pour vous aidez voici un lien directe pour installer Gradle https://docs.gradle.org/current/userguide/installation.html
 
 
 
